@@ -1,0 +1,77 @@
+body{
+position: relative;
+font-family: "Montserrat",serif;
+font-weight: 300;
+max-width: 100%;
+overflow-x: hidden;
+background-image: url(../img/background.png);
+background-repeat: no-repeat;
+}
+
+.white{
+    color: white;
+}
+
+
+#container-historia{
+   
+    margin-top: 20px;
+}
+
+.campo1nos{
+
+    margin: 20px 20px;
+    position: relative;
+    top: 0;
+    width: 54%;
+    text-align: left;
+    display: inline-block;
+}
+
+h2{
+    text-align: left;
+    line-height: 1.2;
+    margin: 50px 0;
+    font-size: 48px !important;
+    font-weight: 600;
+
+
+}
+
+p{
+    font-size: 16px !important;
+    display: block;
+    margin: 20px 0;
+    color: #111;
+}
+
+.campoImagem{
+    width: 38%;
+    float: right;
+    right: 0;
+    text-align: left;
+    display: inline-block;
+}
+
+#container-meio{
+
+    position: relative;
+    clear: both;
+    display: block;
+    width: 800px;
+    margin: 20px auto;
+    line-height: 2;
+}
+
+.primeira-grande-letra{
+    font-size: 16px !important;
+    display: block;
+    margin: 20px 0;
+    color: #111;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; 
+}
+
